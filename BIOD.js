@@ -1,4 +1,4 @@
-// Data Input and Output ( DIO )
+// Basic Input and Output of Data ( BIOD )
 
 includes = function(string) {
 	if (this.split(string).join("")==string) {
